@@ -1,7 +1,7 @@
 
 ## nanopb
 
-Protocol Buffers with small code size.
+Nanopb is a small code-size Protocol Buffers implementation in ansi C.
 
 License: zlib license.
 
